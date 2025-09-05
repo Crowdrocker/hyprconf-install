@@ -33,12 +33,12 @@
 
 ```bash
 # Clone repo
-  git clone https://github.com/Crowdrocker/WehttamSnaps-dotfiles.git ~/Dotfiles
+  git clone --depth=1  https://github.com/Crowdrocker/hyprconf-install.git ~/Dotfiles
   cd ~/Dotfiles
+  /install.sh
 
-# Run setup
 
-  ./install.sh
+  .
 
 # Reboot and enjoy!
 ```
