@@ -45,7 +45,7 @@ mkdir -p "$log_dir"
 touch "$log"
 
 # hyprconf repo url
-url="https://github.com/shell-ninja/hyprconf-v2/archive/refs/heads/main.zip"
+url="https://github.com/Crowdrocker/hyprconf-v2/archive/refs/heads/main.zip"
 target_dir="$parent_dir/.cache/hyprconf-v2"
 zip_path="$target_dir.zip"
 

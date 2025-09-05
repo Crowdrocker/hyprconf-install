@@ -56,6 +56,6 @@ if [ -d ~/.zsh ]; then
 fi
 
 # now install zsh
-bash <(curl https://raw.githubusercontent.com/shell-ninja/Zsh/main/direct_install.sh)
+bash <(curl https://raw.githubusercontent.com/Crowdrocker/Zsh/main/direct_install.sh)
 
 clear
