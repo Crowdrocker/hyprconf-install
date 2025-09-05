@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #### Advanced Hyprland Installation Script by ####
-#### Shell Ninja ( https://github.com/Crowdrocker ) ####
+#### Crowdrocker ( https://github.com/Crowdrocker ) ####
 
 
 # --------------- color defination
