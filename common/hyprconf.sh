@@ -45,8 +45,8 @@ mkdir -p "$log_dir"
 touch "$log"
 
 # hyprconf repo url
-url="https://github.com/shell-ninja/hyprconf/archive/refs/heads/main.zip"
-target_dir="$parent_dir/.cache/hyprconf"
+url="https://github.com/Crowdrocker/WehttamSnaps-dotfiles/archive/refs/heads/main.zip"
+target_dir="$parent_dir/.cache/WehttamSnaps-dotfiles"
 zip_path="$target_dir.zip"
 
 echo
@@ -69,7 +69,7 @@ fi
 # Clone the repository and log the output
 # if [[ ! -d "$parent_dir/.cache/hyprconf" ]]; then
 #     msg act "Cloning hyprconf dotfiles repository..."
-#     git clone --depth=1 https://github.com/shell-ninja/hyprconf.git "$parent_dir/.cache/hyprconf" 2>&1 | tee -a "$log" &> /dev/null
+#     git clone --depth=1 https://github.com/Crowdrocker/hyprconf.git "$parent_dir/.cache/hyprconf" 2>&1 | tee -a "$log" &> /dev/null
 # fi
 # ---------------------- old ---------------------- #
 
