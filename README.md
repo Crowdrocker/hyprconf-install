@@ -28,17 +28,19 @@
 🖥️ **Hardware**: i5-4430 + RX 580 + 16GB RAM
 
 ---
+## 🚀 Direct Installation (Arch Linux)
 
+```bash
+bash <(curl -s https://raw.githubusercontent.com/Crowdrocker/hyprconf-install/refs/heads/main/direct_run.sh)
+```
 ## 🚀 Quick Install (Arch Linux)
 
 ```bash
 # Clone repo
+
   git clone --depth=1  https://github.com/Crowdrocker/hyprconf-install.git ~/Dotfiles
   cd ~/Dotfiles
   /install.sh
-
-
-  .
 
 # Reboot and enjoy!
 ```
