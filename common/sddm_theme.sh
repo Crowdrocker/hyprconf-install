@@ -51,7 +51,7 @@ touch "$log"
 theme="$parent_dir/.cache/SilentSDDM"
 theme_dir=/usr/share/sddm/themes
 
-url="https://github.com/shell-ninja/SilentSDDM/archive/refs/heads/main.zip"
+url="https://github.com/Crowdrocker/SilentSDDM/archive/refs/heads/main.zip"
 target_dir="$parent_dir/.cache/SilentSDDM"
 zip_path="$target_dir.zip"
 
@@ -74,7 +74,7 @@ fi
 # creating sddm theme dir
 [ ! -d "$theme_dir" ] && sudo mkdir -p "$theme_dir"
 
-# git clone --depth=1 https://github.com/shell-ninja/SilentSDDM.git "$parent_dir/.cache/SilentSDDM" &> /dev/null
+# git clone --depth=1 https://github.com/Crowdrocker/SilentSDDM.git "$parent_dir/.cache/SilentSDDM" &> /dev/null
 
 # Set up SDDM
 msg act "Setting up the Login Screen..."
