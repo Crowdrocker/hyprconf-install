@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #### Advanced Hyprland Installation Script by ####
-#### Shell Ninja ( https://github.com/shell-ninja ) ####
+#### Crowdrocker ( https://github.com/Crowdrocker ) ####
 
 # color defination
 red="\e[1;31m"
@@ -50,7 +50,7 @@ log="$log_dir/themes-$(date +%d-%m-%y).log"
 mkdir -p "$log_dir"
 touch "$log"
 
-url="https://github.com/shell-ninja/themes_icons/archive/refs/heads/main.zip"
+url="https://github.com/Crowdrocker/themes_icons/archive/refs/heads/main.zip"
 target_dir="$parent_dir/.cache/themes_icons"
 zip_path="$target_dir.zip"
 
