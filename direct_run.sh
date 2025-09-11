@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #### Advanced Hyprland Installation Script by ####
-#### Crowdrocker ( https://github.com/Crowdrocker ) ####
+#### Shell Ninja ( https://github.com/shell-ninja ) ####
 
 # this script will be a curl of wget link. by running this script, it will clone the repository and execute the main script.
 
@@ -100,7 +100,7 @@ sleep 1 && clear
 
 printf "${green}=>${end} Preparing the installation scripts...\n" && echo
 
-curl -L https://github.com/Crowdrocker/hyprconf-install/archive/refs/heads/main.zip -o hyprconf-install.zip && sleep 1
+curl -L https://github.com/shell-ninja/hyprconf-install/archive/refs/heads/main.zip -o hyprconf-install.zip && sleep 1
 
 if [[ -f "$HOME/hyprconf-install.zip" ]]; then
     mkdir hyprconf-install &> /dev/null

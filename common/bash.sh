@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #### Advanced Hyprland Installation Script by ####
-#### Crowdrocker ( https://github.com/Crowdrocker ) ####
+#### Shell Ninja ( https://github.com/shell-ninja ) ####
 
 # color defination
 red="\e[1;31m"
@@ -54,6 +54,6 @@ if [ -d ~/.bash ]; then
 fi
 
 # now install bash
-bash <(curl https://raw.githubusercontent.com/Crowdrocker/Bash/main/direct_install.sh) 2>&1 | tee -a "$log"
+bash <(curl https://raw.githubusercontent.com/shell-ninja/Bash/main/direct_install.sh) 2>&1 | tee -a "$log"
 
 clear
