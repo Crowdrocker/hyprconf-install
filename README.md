@@ -2,7 +2,7 @@
 
 <h1 align="center">Minimal Hyprland Install Script</h1>
 <h3 align="center">By</h3>
-<h2 align="center">Shell Ninja</h2>
+<h2 align="center">Crowdrocker</h2>
 <br>
 
 This Hyprland configuration is kind of minila looking, but also little bit gorgeous I guess. Why don't you check it out?
@@ -45,67 +45,67 @@ This Hyprland configuration is kind of minila looking, but also little bit gorge
 <details close>
 <summary>Overall</summary>
 <p align="center">
-   <img aligh="center" width="49%" src="https://github.com/shell-ninja/Screen-Shots/blob/main/hyprconf/theme/1.png?raw=true" />
-   <img aligh="center" width="49%" src="https://github.com/shell-ninja/Screen-Shots/blob/main/hyprconf/theme/2.png?raw=true" /> <br>
+   <img aligh="center" width="49%" src="https://github.com/Crowdrocker/Screen-Shots/blob/main/hyprconf/theme/1.png?raw=true" />
+   <img aligh="center" width="49%" src="https://github.com/Crowdrocker/Screen-Shots/blob/main/hyprconf/theme/2.png?raw=true" /> <br>
 
-   <img aligh="center" width="49%" src="https://github.com/shell-ninja/Screen-Shots/blob/main/hyprconf/theme/3.png?raw=true" />
-   <img aligh="center" width="49%" src="https://github.com/shell-ninja/Screen-Shots/blob/main/hyprconf/theme/4.png?raw=true" />
+   <img aligh="center" width="49%" src="https://github.com/Crowdrocker/Screen-Shots/blob/main/hyprconf/theme/3.png?raw=true" />
+   <img aligh="center" width="49%" src="https://github.com/Crowdrocker/Screen-Shots/blob/main/hyprconf/theme/4.png?raw=true" />
 
-   <img aligh="center" width="49%" src="https://github.com/shell-ninja/Screen-Shots/blob/main/hyprconf/theme/5.png?raw=true" />
-   <img aligh="center" width="49%" src="https://github.com/shell-ninja/Screen-Shots/blob/main/hyprconf/theme/6.png?raw=true" />
+   <img aligh="center" width="49%" src="https://github.com/Crowdrocker/Screen-Shots/blob/main/hyprconf/theme/5.png?raw=true" />
+   <img aligh="center" width="49%" src="https://github.com/Crowdrocker/Screen-Shots/blob/main/hyprconf/theme/6.png?raw=true" />
 </p> <br>
 </details>
 
 <details close>
 <summary>Menu</summary>
 <p align="center">
-   <img aligh="center" width="49%" src="https://github.com/shell-ninja/Screen-Shots/blob/main/hyprconf/menu/1.png?raw=true" />
-   <img aligh="center" width="49%" src="https://github.com/shell-ninja/Screen-Shots/blob/main/hyprconf/menu/2.png?raw=true" /> <br>
+   <img aligh="center" width="49%" src="https://github.com/Crowdrocker/Screen-Shots/blob/main/hyprconf/menu/1.png?raw=true" />
+   <img aligh="center" width="49%" src="https://github.com/Crowdrocker/Screen-Shots/blob/main/hyprconf/menu/2.png?raw=true" /> <br>
 
-   <img aligh="center" width="49%" src="https://github.com/shell-ninja/Screen-Shots/blob/main/hyprconf/menu/4.png?raw=true" />
-   <img aligh="center" width="49%" src="https://github.com/shell-ninja/Screen-Shots/blob/main/hyprconf/menu/3.png?raw=true" />
+   <img aligh="center" width="49%" src="https://github.com/Crowdrocker/Screen-Shots/blob/main/hyprconf/menu/4.png?raw=true" />
+   <img aligh="center" width="49%" src="https://github.com/Crowdrocker/Screen-Shots/blob/main/hyprconf/menu/3.png?raw=true" />
     <br>
 
-   <img aligh="center" width="99%" src="https://github.com/shell-ninja/Screen-Shots/blob/main/hyprconf/clipboard.png?raw=true" />
+   <img aligh="center" width="99%" src="https://github.com/Crowdrocker/Screen-Shots/blob/main/hyprconf/clipboard.png?raw=true" />
 </p> <br>
 </details>
 
 <details close>
 <summary>Power Menu</summary>
 <p align="center">
-   <img aligh="center" width="49%" src="https://github.com/shell-ninja/Screen-Shots/blob/main/hyprconf/power/1.png?raw=true" />
-   <img aligh="center" width="49%" src="https://github.com/shell-ninja/Screen-Shots/blob/main/hyprconf/power/2.png?raw=true" /> <br>
+   <img aligh="center" width="49%" src="https://github.com/Crowdrocker/Screen-Shots/blob/main/hyprconf/power/1.png?raw=true" />
+   <img aligh="center" width="49%" src="https://github.com/Crowdrocker/Screen-Shots/blob/main/hyprconf/power/2.png?raw=true" /> <br>
 
-   <img aligh="center" width="99%" src="https://github.com/shell-ninja/Screen-Shots/blob/main/hyprconf/power/3.png?raw=true" />
+   <img aligh="center" width="99%" src="https://github.com/Crowdrocker/Screen-Shots/blob/main/hyprconf/power/3.png?raw=true" />
 </p> <br>
 </details>
 
 <details close>
 <summary>Wallpaper</summary>
 <p align="center">
-   <img aligh="center" width="49%" src="https://github.com/shell-ninja/Screen-Shots/blob/main/hyprconf/wallpaper/1.png?raw=true" />
-   <img aligh="center" width="49%" src="https://github.com/shell-ninja/Screen-Shots/blob/main/hyprconf/wallpaper/2.png?raw=true" /> <br>
+   <img aligh="center" width="49%" src="https://github.com/Crowdrocker/Screen-Shots/blob/main/hyprconf/wallpaper/1.png?raw=true" />
+   <img aligh="center" width="49%" src="https://github.com/Crowdrocker/Screen-Shots/blob/main/hyprconf/wallpaper/2.png?raw=true" /> <br>
 
-   <img aligh="center" width="99%" src="https://github.com/shell-ninja/Screen-Shots/blob/main/hyprconf/wallpaper/3.png?raw=true" />
+   <img aligh="center" width="99%" src="https://github.com/Crowdrocker/Screen-Shots/blob/main/hyprconf/wallpaper/3.png?raw=true" />
 </p> <br>
 </details>
 
 <details close>
 <summary>Lock Screen</summary>
 <p align="center">
-   <img aligh="center" width="49%" src="https://github.com/shell-ninja/Screen-Shots/blob/main/hyprconf/lockscreen/lock-1.png?raw=true" />
-   <img aligh="center" width="49%" src="https://github.com/shell-ninja/Screen-Shots/blob/main/hyprconf/lockscreen/lock-2.png?raw=true" />
+   <img aligh="center" width="49%" src="https://github.com/Crowdrocker/Screen-Shots/blob/main/hyprconf/lockscreen/lock-1.png?raw=true" />
+   <img aligh="center" width="49%" src="https://github.com/Crowdrocker/Screen-Shots/blob/main/hyprconf/lockscreen/lock-2.png?raw=true" />
         <br>
-   <img aligh="center" width="49%" src="https://github.com/shell-ninja/Screen-Shots/blob/main/hyprconf/lockscreen/lock-3.png?raw=true" />
-   <img aligh="center" width="49%" src="https://github.com/shell-ninja/Screen-Shots/blob/main/hyprconf/lockscreen/selecttheme.png?raw=true" />
+   <img aligh="center" width="49%" src="https://github.com/Crowdrocker/Screen-Shots/blob/main/hyprconf/lockscreen/lock-3.png?raw=true" />
+   <img aligh="center" width="49%" src="https://github.com/Crowdrocker/Screen-Shots/blob/main/hyprconf/lockscreen/selecttheme.png?raw=true" />
 </p>
 </details>
 
 <details close>
 <summary>Login Screen (sddm)</summary>
 <p align="center">
-   <img aligh="center" width="49%" src="https://github.com/shell-ninja/Screen-Shots/blob/main/hyprconf/sddm/sddm1.jpg?raw=true" />
-   <img aligh="center" width="49%" src="https://github.com/shell-ninja/Screen-Shots/blob/main/hyprconf/sddm/sddm2.jpg?raw=true" />
+   <img aligh="center" width="49%" src="https://github.com/Crowdrocker/Screen-Shots/blob/main/hyprconf/sddm/sddm1.jpg?raw=true" />
+   <img aligh="center" width="49%" src="https://github.com/Crowdrocker/Screen-Shots/blob/main/hyprconf/sddm/sddm2.jpg?raw=true" />
 </p>
 </details>
 
@@ -149,7 +149,7 @@ This Hyprland configuration is kind of minila looking, but also little bit gorge
 > You can now easily install the config directly without cloning the repository. Just copy and paste the command bellow in your terminal and run it. Before that, make sure to install `curl`. Install it using pacman, dnf or zypper.
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/shell-ninja/hyprconf-install/main/direct_run.sh)
+bash <(curl -s https://raw.githubusercontent.com/Crowdrocker/hyprconf-install/main/direct_run.sh)
 ```
 
 > [!NOTE]
@@ -159,7 +159,7 @@ bash <(curl -s https://raw.githubusercontent.com/shell-ninja/hyprconf-install/ma
 > - Clone this repository:
 
 ```
-git clone --depth=1 https://github.com/shell-ninja/hyprconf-install.git
+git clone --depth=1 https://github.com/Crowdrocker/hyprconf-install.git
 ```
 
 > - Now cd into hyprconf-install directory and run this command.:
@@ -180,14 +180,14 @@ chmod +x install.sh
 
 When you run the script, it will ask you some prompts. You can choose according to your need. You can choose multiple options using the space bar.
 
-<img src="https://github.com/shell-ninja/Screen-Shots/blob/main/hyprconf/install/1.png?raw=true" /> <br>
+<img src="https://github.com/Crowdrocker/Screen-Shots/blob/main/hyprconf/install/1.png?raw=true" /> <br>
 
 </details>
 
 <details close>
 <summary>Install Shell</summary>
 
-<img src="https://github.com/shell-ninja/Screen-Shots/blob/main/hyprconf/install/2.png?raw=true" /> <br>
+<img src="https://github.com/Crowdrocker/Screen-Shots/blob/main/hyprconf/install/2.png?raw=true" /> <br>
 
 </details>
 
@@ -196,20 +196,20 @@ When you run the script, it will ask you some prompts. You can choose according 
 
 You have the freedom to choose a web browser. I you don't want to install any, you can simply skip it.
 
-<img src="https://github.com/shell-ninja/Screen-Shots/blob/main/hyprconf/install/3.png?raw=true" />
+<img src="https://github.com/Crowdrocker/Screen-Shots/blob/main/hyprconf/install/3.png?raw=true" />
 <br>
 </details>
 
 <details close>
 <summary>Install From 2 versions</summary>
 
-You can choose between the [Hyprconf](https://github.com/shell-ninja/hyprconf) and [Hyprconf-V2](https://github.com/shell-ninja/hyprconf-v2) configuration.
+You can choose between the [Hyprconf](https://github.com/Crowdrocker/hyprconf) and [Hyprconf-V2](https://github.com/Crowdrocker/hyprconf-v2) configuration.
 <br>
 
 - Hyprconf is a dynamic color changing configuration which use pywal to change colors.
 - Hyprconf-V2 is a theme based configuration. I has pre-configured themes.
 
-<img src="https://github.com/shell-ninja/Screen-Shots/blob/main/hyprconf/install/version.png?raw=true" />
+<img src="https://github.com/Crowdrocker/Screen-Shots/blob/main/hyprconf/install/version.png?raw=true" />
 <br>
 </details>
 
@@ -223,15 +223,15 @@ Also, you can choose the keyboard variant, or keep it empty.
 - Keyboard Layout
 <p align="center">
 <br>
-    <img width="49%" src="https://github.com/shell-ninja/Screen-Shots/blob/main/hyprconf/install/kb_layout.png?raw=true" />
-    <img width="49%" src="https://github.com/shell-ninja/Screen-Shots/blob/main/hyprconf/install/kb_layout_select.png?raw=true" />
+    <img width="49%" src="https://github.com/Crowdrocker/Screen-Shots/blob/main/hyprconf/install/kb_layout.png?raw=true" />
+    <img width="49%" src="https://github.com/Crowdrocker/Screen-Shots/blob/main/hyprconf/install/kb_layout_select.png?raw=true" />
 </p>
 
 - Keyboar Variant
 <p align="center">
 <br>
-    <img width="49%" src="https://github.com/shell-ninja/Screen-Shots/blob/main/hyprconf/install/kb_variant.png?raw=true" />
-    <img width="49%" src="https://github.com/shell-ninja/Screen-Shots/blob/main/hyprconf/install/kb_variant_select.png?raw=true" />
+    <img width="49%" src="https://github.com/Crowdrocker/Screen-Shots/blob/main/hyprconf/install/kb_variant.png?raw=true" />
+    <img width="49%" src="https://github.com/Crowdrocker/Screen-Shots/blob/main/hyprconf/install/kb_variant_select.png?raw=true" />
 </p>
 </details>
 
@@ -258,7 +258,7 @@ Also, you can choose the keyboard variant, or keep it empty.
 
 <a id="updates"></a>
 
-### See last changes (updates) [here](https://github.com/shell-ninja/hyprconf-install/blob/main/UPDATES.md)
+### See last changes (updates) [here](https://github.com/Crowdrocker/hyprconf-install/blob/main/UPDATES.md)
 
 <br>
 
