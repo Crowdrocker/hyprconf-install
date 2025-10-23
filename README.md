@@ -30,19 +30,32 @@
 ---
 ## 🚀 Direct Installation (Arch Linux)
 
-```bash
-bash <(curl -s https://raw.githubusercontent.com/Crowdrocker/hyprconf-install/refs/heads/main/direct_run.sh)
+> [!NOTE]
+>
+> ### Direct Installation
+>
+> You can now easily install the config directly without cloning the repository. Just copy and paste the command bellow in your terminal and run it. Before that, make sure to install `curl`. Install it using pacman, dnf or zypper.
+
 ```
-## 🚀 Quick Install (Arch Linux)
+bash <(curl -s https://raw.githubusercontent.com/Crowdrocker/hyprconf-install/main/direct_run.sh)
+```
 
-```bash
-# Clone repo
+> [!NOTE]
+>
+> ### Manusally Installation
 
-  git clone --depth=1  https://github.com/Crowdrocker/hyprconf-install.git ~/Dotfiles
-  cd ~/Dotfiles
-  /install.sh
+> - Clone this repository:
 
-# Reboot and enjoy!
+```
+git clone --depth=1 https://github.com/Crowdrocker/hyprconf-install.git
+```
+
+> - Now cd into snaps-hyprconf directory and run this command.:
+
+```
+cd ~/hyprconf-install
+chmod +x install.sh
+./install.sh
 ```
 
 > 💡 **Note**: This script assumes a fresh Arch install with `yay` or `paru` installed.
